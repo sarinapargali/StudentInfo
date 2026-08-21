@@ -7,7 +7,6 @@ namespace StudentInfo
     class Program
     {
         static PersianCalendar pc = new PersianCalendar();
-
         static void Main(string[] args)
         {
             int count;
